@@ -29,6 +29,7 @@ public class StepDefinition {
 		System.out.println("Validated Home Page");
 		System.out.println("Validated Home Page1");
 		System.out.println("Validated Home Page2");
+		System.out.println("Validated Home Page3");
 		
 		
 	}
@@ -37,6 +38,7 @@ public class StepDefinition {
 	public void creditcards_are_displayed()
 	{
 		System.out.println("Validated Creditcard page");
+		System.out.println("Validated Creditcard page1");
 	}
 	
 	

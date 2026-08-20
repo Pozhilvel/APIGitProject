@@ -24,6 +24,15 @@ public class AppTest
     {
     	System.out.println("Successfully login into Jira1");
     	System.out.println("Successfully login into Jira2");
-    	System.out.println("Successfully login into Jira3");
+    	System.out.println("Successfully login into Jira3");   	
+    	
+    }
+    
+    @Test
+    public void jiraLogOut()
+    {
+    	System.out.println("Successfully logout from Jira1");
+    	System.out.println("Successfully logout from Jira2");
+    	System.out.println("Successfully logout from Jira3");
     }
 }

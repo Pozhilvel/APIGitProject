@@ -27,6 +27,10 @@ public class StepDefinition {
 	public void home_page_is_displayed()
 	{
 		System.out.println("Validated Home Page");
+		System.out.println("Validated Home Page1");
+		System.out.println("Validated Home Page2");
+		
+		
 	}
 	
 	@And("^Creditcards are displayed$")

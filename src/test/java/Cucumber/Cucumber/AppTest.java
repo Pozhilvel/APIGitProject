@@ -15,6 +15,15 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue( true );
+        assertTrue( true );        
+        
+    }
+    
+    @Test
+    public void jiraLogin()
+    {
+    	System.out.println("Successfully login into Jira1");
+    	System.out.println("Successfully login into Jira2");
+    	System.out.println("Successfully login into Jira3");
     }
 }

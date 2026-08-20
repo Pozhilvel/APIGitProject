@@ -41,7 +41,12 @@ public class StepDefinition {
 		System.out.println("Validated Creditcard page1");
 	}
 	
-	
+	@And("^Creditcards are displayed2323$")
+	public void creditcards_are_displayed1()
+	{
+		System.out.println("Validated Creditcard pageewe");
+		System.out.println("Validated Creditcard pageewe1");
+	}
 	
 	
 }
